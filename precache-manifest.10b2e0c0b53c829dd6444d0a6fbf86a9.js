@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c345515c570369c8b49b",
+    "revision": "67fe6b9b368d946ab863",
     "url": "/react/static/css/main.56132ba7.chunk.css"
   },
   {
-    "revision": "c345515c570369c8b49b",
-    "url": "/react/static/js/main.c345515c.chunk.js"
+    "revision": "67fe6b9b368d946ab863",
+    "url": "/react/static/js/main.67fe6b9b.chunk.js"
   },
   {
     "revision": "2c77b0a4cfebaa993647",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/react/static/js/runtime~main.bf2515a3.js"
   },
   {
-    "revision": "a55a3219238e3c7c3f7dfc823ad8f3fa",
-    "url": "/react/static/media/Bassem ALOUI - DEV.a55a3219.pdf"
+    "revision": "5a28104dc14e146ca0672212a33121ba",
+    "url": "/react/static/media/Bassem ALOUI - DEV.5a28104d.pdf"
   },
   {
     "revision": "bbd33a6e28c65a5c3210458181524af0",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/react/static/media/Secondimg.91253774.jpg"
   },
   {
-    "revision": "e92ac0a28f0482876733edb7fce3e807",
+    "revision": "400e3ce7334f0de9ed4c02a47f4c9b02",
     "url": "/react/index.html"
   }
 ];
