@@ -5,9 +5,9 @@ const Footer = () => {
   return (
     <footer id="footer">
       <ul></ul>
-      <a href="#" className="footer__logo"> Portefeuille</a>
+      <a href="/" className="footer__logo"> Portefeuille</a>
       <ul className="premalinks">
-        <li><a href="#">Accueil</a></li>
+        <li><a href="/">Accueil</a></li>
         <li><a href="#about">À propos de moi</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#portfolio">Portefeuille</a></li>

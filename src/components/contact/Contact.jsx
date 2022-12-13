@@ -3,23 +3,23 @@ import './contact.css'
 import {HiOutlineMail} from'react-icons/hi'
 import {BsMessenger} from 'react-icons/bs'
 import {BsWhatsapp} from 'react-icons/bs'
-import { useRef } from 'react';
-import emailjs from 'emailjs-com'
+//import { useRef } from 'react';
+//import emailjs from 'emailjs-com'
 
 const Contact = () => {
-  const form = useRef();
-  const sendEmail = (e) => {
-    e.preventDefault();
+  //const form = useRef();
+  //const sendEmail = (e) => {
+  //  e.preventDefault();
 
-    emailjs.sendForm('service_u4yc91y', 'template_kqj0pbg', form.current, 'VCveyTXpOkftgxkGW')
+ //   emailjs.sendForm('service_u4yc91y', 'template_kqj0pbg', form.current, 'VCveyTXpOkftgxkGW')
     
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
-        e.target.reset();
-    };
+  //    .then((result) => {
+  //        console.log(result.text);
+  //    }, (error) => {
+  //        console.log(error.text);
+  //    });
+  //      e.target.reset();
+ //   };
 
   return (
     <section id="contact">
