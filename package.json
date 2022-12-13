@@ -1,6 +1,6 @@
 {
   "name": "protofolio",
-  "homepage": "https://alouibassem.github.io/PROFIL",
+  "homepage": "https://alouibassem.github.io/react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/AlouiBassem/PROFIL",
+    "deploy": "gh-pages -d build -r https://github.com/AlouiBassem/react",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
