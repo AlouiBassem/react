@@ -43,7 +43,7 @@ const About = () => {
               </article>
               
             </div>
-            <p><span className="firstWord">Hi</span>, I am <span class="MyName">Bassem Aloui</span> je Bosse pour logicom Informatique en tant que Développeur </p>
+            <p><span className="firstWord">Hi</span>, Je Suis <span class="MyName">Bassem Aloui</span> je Bosse pour logicom Informatique en tant que Développeur </p>
 
                <a href="#contact" className='btn btn-primary'>
 Contactez moi</a>
